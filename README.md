@@ -4,8 +4,8 @@
 
 使用 Github Actions 和 aria2 下载链接发布到 Release
 
-[x] 多线程下载
-[x] 改善对磁力链接的支持。（感谢 [P3TERX/aria2.conf](https://github.com/P3TERX/aria2.conf)）
+- [x] 多线程下载
+- [x] 改善对磁力链接的支持。（感谢 [P3TERX/aria2.conf](https://github.com/P3TERX/aria2.conf)）
 
 # 使用
 
